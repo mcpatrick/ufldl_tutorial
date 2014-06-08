@@ -1,3 +1,5 @@
+## Making a change on the feature branch
+
 ## Stanford Unsupervised Feature Learning and Deep Learning Tutorial
 
 Tutorial Website: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
